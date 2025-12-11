@@ -1,2 +1,8 @@
 # hybrid-gen-rehab
-Code and resources for the manuscript "A data-physics hybrid model for personalized post-stroke gait prediction and rehabilitation planning using wearable sensor data"
+Repository for the manuscript 
+“A data-physics hybrid generative model for patient-specific post-stroke motor rehabilitation using wearable sensor data”.
+
+⚠️ This is a placeholder repository. 
+Full code, scripts, and documentation will be released upon publication.
+
+For questions during peer review, please contact the authors.
